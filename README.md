@@ -1,5 +1,5 @@
 # AI Academy
-This repository is used for teaching and furthering the skills related to developing Artificial Intelligence, Machine Learning and Deep Learning. This project has been started in Northern Ireland with the intention of providing a single source of clear and concise tutorials to help teach people the skills needed to get involved in Artificial Intelligence, Machine Learning, and Deep Learning. 
+This repository is used for teaching and furthering the skills related to developing Artificial Intelligence, Machine Learning and Deep Learning. This project has been started in AI Camp in Belfast with the intention of providing a single source of clear and concise tutorials to help teach people the skills needed to get involved in Artificial Intelligence, Machine Learning, and Deep Learning. 
 
 **Everyone** is welcome to contribute to this project as we don't want to close this information off to people. If you wish to get involved and contribute to the collection please make sure you meet the requirements below before the finalised tutorial is merged with the main branch. 
 
