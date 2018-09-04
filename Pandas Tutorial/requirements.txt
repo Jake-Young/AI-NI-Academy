@@ -1,0 +1,20 @@
+to complete this tutorial you need:
+● python2 or python3 
+● pandas
+● numpy
+● matplotlib
+
+To install python2/python3 navigate to: 
+	https://www.python.org/downloads/
+
+
+To install pandas open, terminal and type:
+	pip install pandas
+
+
+To install numpy open, terminal and type:
+	pip install numpy
+
+
+To install matplotlib, open terminal and type:
+	pip install matplotlib
