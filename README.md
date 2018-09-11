@@ -13,3 +13,7 @@ This project has been started in AI Camp Belfast with the intention of providing
 If you are making use of a Kaggle kernel notebook, make sure that you download the notebook so you fulfill the above requirements and provide a link to the public kernel on kaggle in description of the tutorial. 
 
 If you are not sure of any of the requirements refer to the example tutorial in the repository. 
+
+## Tutorials In Progress : 
+- Graphs and Visualising Data with Matplotlib/Seaborn
+- CNNs and Image Processing with Keras
