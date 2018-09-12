@@ -19,4 +19,5 @@ If you are not sure of any of the requirements refer to the example tutorial in 
 - CNNs and Image Processing with Keras
 - Numpy library breakdown
 - Face Recognition with OpenCV
-- Gender Recognition 
+- Gender Recognition from Images
+- Analysing Time Series Data
