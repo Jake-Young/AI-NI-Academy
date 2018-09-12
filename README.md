@@ -18,3 +18,5 @@ If you are not sure of any of the requirements refer to the example tutorial in 
 - Graphs and Visualising Data with Matplotlib/Seaborn
 - CNNs and Image Processing with Keras
 - Numpy library breakdown
+- Face Recognition with OpenCV
+- Gender Recognition 
