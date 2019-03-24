@@ -16,11 +16,9 @@ Throughout the notebook there are challenges to test the machine learning knowle
 
 1. Clone the notebook 
 
-`git clone https://github.com/chloethompson/AI-NI-Academy1`
-
 2. Change into the folder directory 
 
-`cd AI-NI-Academy1`
+`cd AI-Academy/Eigenfaces&PCA`
 
 2. Run the jupyter notebook 
 
