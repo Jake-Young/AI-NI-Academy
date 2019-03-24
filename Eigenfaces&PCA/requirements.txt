@@ -1,0 +1,30 @@
+to complete this tutorial you need:
+● python2 or python3 
+● pandas
+● numpy
+● sklearn
+● matplotlib
+● keras
+
+To install python2/python3 navigate to: 
+	https://www.python.org/downloads/
+
+
+To install pandas open, terminal and type:
+	pip install pandas
+
+
+To install numpy open, terminal and type:
+	pip install numpy
+
+
+To install sklearn, open terminal and type:
+	pip install sklearn
+
+    
+To install matplotlib, open terminal and type:
+	pip install matplotlib
+
+
+To install keras, open terminal and type:
+	pip install keras
