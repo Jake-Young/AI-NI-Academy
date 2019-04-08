@@ -18,6 +18,17 @@ All we expect is an insatiable desire to learn, a willingness to collaborate wit
 
 We'd love to see you here!
 
+## Getting Ready for the Hackathon
+
+To Do : 
+- Sign up to the event via Eventbrite
+- Either find a team or let us know (We can help!)
+- Join the slack channel - https://join.slack.com/t/ai-ni-group/shared_invite/enQtNTkxNzUwNjY1NDMxLTg0NWViOTM5MTc1MTNiZjEwZTUxOTYxMDAwOGM2MjU1YzU2ZWU2NTZhOWIzYzQ3YjdlZDVhOTg4YjkwZmNjNzg
+- Get your hands on a laptop (If you can't find one let us know)
+
+Optional :
+- Sign up here for Wi-Fi at Queen's - https://service.thecloud.net/service-platform/
+
 ## Tutorial Upload Requirements :
 - An empty jupyter Notebook with a step by step walkthrough describing how to complete the tutorial
 - A complete and commented jupyter notebook with the supporting step by step walkthrough
