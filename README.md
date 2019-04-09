@@ -43,5 +43,5 @@ If you are not sure of any of the requirements refer to the example tutorial in 
 
 ## Tutorials In Progress : 
 - CNNs and Image Processing with Keras
-- Numpy library breakdown
+- Feature Engineering
 
