@@ -1,7 +1,8 @@
 ## AI NI Hackathon - The Good (A)Idea (Queen's or Ulster University Magee)
 
 Welcome to the AI NI Hackathon! This part of the repo contains all the information that you might need on the day. The most important part is the schedule which you can see above or here:
-<img https://github.com/Jake-Young/AI-NI-Academy/blob/master/Hackathon%20Information/Schedule.png />
+
+![Schedule](https://github.com/Jake-Young/AI-NI-Academy/blob/master/Hackathon%20Information/Schedule.png)
 
 ## Getting Ready for the Hackathon
 
