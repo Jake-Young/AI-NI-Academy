@@ -5,29 +5,7 @@ This repo has been created as an open place for any tutorials that our community
 
 # Our Next Event!
 
-## AI NI Hackathon - The Good (A)Idea (Queen's or Ulster University Magee) 
-Sign Up Here: https://www.eventbrite.co.uk/e/the-good-aidea-hackathon-tickets-53046814450
-
-2 day hackathon brought to you by AI NI and Hackily! Kindly supported by our platinum partner Bazaarvoice and hosted by QUB! We’re inviting 200 AI enthusiasts from across the island and beyond to be part of the inaugural AI Initiative hackathon.
-
-With the rapid advancement of AI technology, it is important to use its power in ways that benefit society. We’ll provide a welcoming and collaborative environment for you to build out brilliant, innovative, and impactful ideas using AI. You’ll meet fellow hackers, learn new technologies, and work alongside seasoned mentors.
-
-We'll provide the food, swag, workshops, mentorship, prizes and more. Don't have a team, or even an idea? Don't worry! We'll give you the tools to build something incredible.
-
-All we expect is an insatiable desire to learn, a willingness to collaborate with people of different backgrounds, and a desire to benefit the world with technology.
-
-We'd love to see you here!
-
-## Getting Ready for the Hackathon
-
-To Do : 
-- Sign up to the event via Eventbrite
-- Either find a team or let us know (We can help!)
-- Join the slack channel - https://join.slack.com/t/ai-ni-group/shared_invite/enQtNTkxNzUwNjY1NDMxLTg0NWViOTM5MTc1MTNiZjEwZTUxOTYxMDAwOGM2MjU1YzU2ZWU2NTZhOWIzYzQ3YjdlZDVhOTg4YjkwZmNjNzg
-- Get your hands on a laptop (If you can't find one let us know)
-
-Optional :
-- Sign up here for Wi-Fi at Queen's - https://service.thecloud.net/service-platform/
+Coming soon :)
 
 ## Tutorial Upload Requirements :
 - An empty jupyter Notebook with a step by step walkthrough describing how to complete the tutorial
