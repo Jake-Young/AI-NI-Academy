@@ -20,8 +20,3 @@ If you are making use of a Kaggle kernel notebook, make sure that you download t
 If you are not sure of any of the requirements refer to the example tutorial in the repository. 
 
 ## Tutorials In Progress : 
-- CNNs and Image Processing with Keras
-- Text Generation
-- Text Classification
-- Feature Engineering
-- Supporting Theory Document
