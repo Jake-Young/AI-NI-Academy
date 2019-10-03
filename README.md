@@ -23,6 +23,8 @@ What you need to get the most out of the weekend:
 - Your keen self
 - A laptop
 
+![Dathon!!!](https://github.com/Jake-Young/AI-NI-Academy/blob/master/Images/DatathonBanner.png)
+
 ## Tutorial Upload Requirements :
 - An empty jupyter Notebook with a step by step walkthrough describing how to complete the tutorial
 - A complete and commented jupyter notebook with the supporting step by step walkthrough
