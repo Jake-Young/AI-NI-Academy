@@ -7,15 +7,15 @@ This repo has been created as an open place for any tutorials that our community
 
 **AI NI Datathon - 26th/27th October**
 
-We are hosting another hackathon this year after the success of our first earlier in the year and we can't wait to see everyone back working together on AI! The Datathon will be hosted, again, over two locations; _Queen's University, Belfast_ and _Ulster University, Magee_. 
+We are hosting another hackathon this year after the success of our first hackathon and we can't wait to see everyone back together working on AI! The Datathon will be hosted, over two locations; _Queen's University, Belfast_ and _Ulster University, Magee_. 
 
-The theme is **"AI for Good"**, this time we are putting a larger focus on education. These two days are a fantastic way for you to learn, develop new skills or find a new interest, and meet like minded people. I alsmost forgot to say **free food**!
+The theme is **"AI for Good"**, this time we are putting a larger focus on education. These two days are a fantastic way for you to learn, develop new skills or find a new interest, and meet like minded people. I almost forgot to say **free food**!
 
 If you are interested in going, head over [here](https://www.eventbrite.co.uk/e/ai-ni-datathon-tickets-64800724712?aff=ebdssbdestsearch) to sign up.
 
-We will be there to help out and support everyone taking part, we want everyone to learn as much as they can and have fun.
+We will be there to help out and support everyone taking part, we want you to learn as much as you can and have fun.
 
-This will be the repoasitory where Academy workshops, Datathon workshops and other tutorials will be stored for you to use. 
+This will be the repository where Academy workshops, Datathon workshops and other tutorials will be stored for you to use. 
 
 We hope to see you there :)
 
