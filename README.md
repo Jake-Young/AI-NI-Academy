@@ -24,6 +24,8 @@ What you need to get the most out of the weekend:
 - A laptop
 
 ![Dathon!!!](https://github.com/Jake-Young/AI-NI-Academy/blob/master/Images/DatathonBanner.png)
+![BelfastSchedule](https://github.com/Jake-Young/AI-NI-Academy/blob/master/Images/ScheduleBelfast.png)
+![DerrySchedule](https://github.com/Jake-Young/AI-NI-Academy/blob/master/Images/ScheduleDerry.png)
 
 ## Tutorial Upload Requirements :
 - An empty jupyter Notebook with a step by step walkthrough describing how to complete the tutorial
