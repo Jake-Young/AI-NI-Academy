@@ -3,4 +3,4 @@ opencv-python==4.2.0.32
 matplotlib>=3.0.0
 tqdm>=4.30
 scikit-learn>=0.20
-keras==2.2.4
+keras==2.13.1
